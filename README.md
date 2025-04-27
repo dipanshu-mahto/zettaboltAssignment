@@ -8,9 +8,9 @@ Execute:
 
 Ensure the following directory structure:
 All_TABLES/
-    customer.csv
-    orders.csv
-    lineitem.csv
-    supplier.csv
-    nation.csv
-    region.csv
+    customer.csv 
+    orders.csv 
+    lineitem.csv 
+    supplier.csv 
+    nation.csv 
+    region.csv 
